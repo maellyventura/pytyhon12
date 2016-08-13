@@ -1,0 +1,5 @@
+dezenas = 10
+
+while(dezenas in == 1000):
+
+	print (dezenas

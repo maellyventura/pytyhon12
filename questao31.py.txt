@@ -1,0 +1,6 @@
+P4.31. Faça um algoritmo que mostre todos os números inteiros pares de 2 a 100.
+num = int(raw_input('Qual o número???\n'))
+
+if int(num) % 2 == 0:
+while(num) in 100: 
+    print "O numero informado e par"

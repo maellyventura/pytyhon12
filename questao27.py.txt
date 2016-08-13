@@ -1,0 +1,1 @@
+P4.27. Consiste na repetição de um comando um determinado número de vezes, ou seja, pelo contador.

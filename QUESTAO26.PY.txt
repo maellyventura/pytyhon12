@@ -1,0 +1,1 @@
+P4.26.Permitem executar mais de uma vez um mesmo trecho de código. 
